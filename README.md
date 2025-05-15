@@ -28,7 +28,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ChaitanyaJadhav9322/LeetCodeProblems_with_Soolutions.git
 Open any .java file in your favorite IDE.
 
 Read the problem → check example → run the solution.
