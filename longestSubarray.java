@@ -1,3 +1,5 @@
+//Time Complexity = O(n)
+//Space Complexity = O(n)
 class Solution {
     public int longestSubarray(int[] nums, int k) {
        int maxLen = 0 ;
